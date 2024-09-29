@@ -1,3 +1,7 @@
+// LatestBrowsingHistory - get recent browsing history for Edge and Chrome
+// by Michael Haephrati
+// https://github.com/securedglobe/browsinghistory
+
 #include <windows.h>
 #include <string>
 #include <iostream>
