@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+/.vs
+/LatestBrowsingHistory/x64/Debug
+/LatestBrowsingHistory/x64/Release
+/LatestBrowsingHistory/Release
+/Debug
+/LatestBrowsingHistory/Debug
